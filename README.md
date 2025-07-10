@@ -1,4 +1,4 @@
-## 🦉 Hallo
+## 🦉 Hey, i am Artyom!
 I'm a **beginner developer** on my way to becoming a **Software Engineer**. Currently focused on learning **Frontend Web Development**, with plans to dive deeper into **Backend**, especially using **Java** and **Kotlin** in the future.
 
 ***
@@ -17,6 +17,7 @@ I'm a **beginner developer** on my way to becoming a **Software Engineer**. Curr
 3. **C++** – participated in school-level competitive programming
 
 ***
+
 ### 🎯 Current Goals
 - Reach a **Junior level** in **Frontend Development**
 - Transition into **Backend** with a focus on **Java/Kotlin** stack
@@ -31,8 +32,9 @@ I'm a **beginner developer** on my way to becoming a **Software Engineer**. Curr
 3. Python
 4. C++
 5. Git + GitHub
+6. MySQL, AioSQLite
 
 ***
 
-##### 📨 Contact
+### 📨 Contact
 Send message to: artsqwdev@gmail.com
