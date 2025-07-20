@@ -1,4 +1,7 @@
+<img width="6158" height="1424" alt="kjl;jkl;jkl;jkl;jk" src="https://github.com/user-attachments/assets/5fdb486c-93b6-4653-9f6b-d9dc30e6eec2" />
+
 ## 🦉 Hey, i am Artyom!
+
 I'm a **beginner developer** on my way to becoming a **Software Engineer**. Currently focused on learning **Frontend Web Development**, with plans to dive deeper into **Backend**, especially using **Java** and **Kotlin** in the future.
 
 ***
