@@ -1,4 +1,4 @@
-<img width="6158" height="1424" alt="kjl;jkl;jkl;jkl;jk" src="https://github.com/user-attachments/assets/5fdb486c-93b6-4653-9f6b-d9dc30e6eec2" />
+<img width="6000" height="1396" alt="github_banner" src="https://github.com/user-attachments/assets/2696c1a5-2f4f-49c9-bbe6-6a704d821403" />
 
 ## 🦉 Hey, i am Artyom!
 
