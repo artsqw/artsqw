@@ -36,6 +36,9 @@ I'm a **beginner developer** on my way to becoming a **Software Engineer**. Curr
 4. C++
 5. Git + GitHub
 6. MySQL, AioSQLite
+7. Figma
+8. Git, GitHub (terminal)
+9. Trello, Notion
 
 ***
 
