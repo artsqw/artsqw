@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/EKtGiyc.png" />
+<img src="https://i.imgur.com/4CQATlY.jpeg" />
 
 ## 🦉 Hey, i am Artyom!
 
